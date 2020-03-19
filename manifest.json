@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
  
-  "name": "Turkcell SMS OTP Default",
+  "name": "SMS OTP default for Turkcell login",
   "version": "0.0.1",
   "description": "When you're trying to login internal Turkcell pages, favor SMS OTP option over BiP.",
  
