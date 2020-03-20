@@ -1,3 +1,3 @@
-Strugle of selecting SMS option on Turkcell login page is over. Install this extension to see SMS option by default.
+Install this extension to see SMS option by default on Turkcell internal login pages.
 
 ![Login page](assets/Screenshot.png)
