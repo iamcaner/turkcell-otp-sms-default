@@ -3,7 +3,7 @@
  
   "name": "SMS OTP default for Turkcell login",
   "version": "0.0.2",
-  "description": "When you're trying to login internal Turkcell pages, select SMS OTP option by default.",
+  "description": "When you're trying to login internal Turkcell pages, see SMS OTP option selected by default.",
  
   "content_scripts": [{
     "js": ["content.js"],
